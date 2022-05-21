@@ -14,6 +14,6 @@ Project structure:
 Additionally:
 * The project was made in Jupyter Notebook, so to run it you should have Anaconda installed. It has a Table of Contents for easier navigation.
 
-* The data for the project is additionally accesable by the link to Google Drive in the notebook itself. When downloaded, it has to be stored in the same folder with the notebook.
+* When downloaded, the data has to be stored in the same folder with the notebook.
 
 This project was created by Mila Lunacharska, in November 2021.
